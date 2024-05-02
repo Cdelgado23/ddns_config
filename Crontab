@@ -1,0 +1,1 @@
+*/20 * * * * /src/update_ddns.sh >> /var/log/cron.log 2>&1
